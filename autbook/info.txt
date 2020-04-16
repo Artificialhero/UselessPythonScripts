@@ -1,0 +1,3 @@
+These are scripts I write derived from the very helpful book Automate The Boring Stuff With Python 
+made by Al Sweigart(@AlSweigart).
+He deserves support and love for offering it for free online. 

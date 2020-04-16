@@ -3,7 +3,7 @@ import time
 word=str(input('Write a word! Python2 doesn\'t work for this code due to input command.'))
 
 def bounce():
-    #Importing time module so i can make words set amount of seconds
+    
     x = 0
     
     while x != 50:

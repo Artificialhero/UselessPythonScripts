@@ -1,6 +1,6 @@
 import time
 
-word=str(input('Write a word! Python2 doesn\'t work for this code due to input command.'))
+word=str(input('Write a word!'))
 
 def bounce():
     

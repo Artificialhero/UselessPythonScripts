@@ -1,3 +1,4 @@
+#!python3
 import sys, webbrowser, pyperclip
 
 #Get address from clipboard or as argument
@@ -11,4 +12,4 @@ else:
     print(address)
     
 
-webbrowser.open('https://www.google.com/maps/place/'address)
+webbrowser.open('https://www.google.com/maps/place/'+address)
